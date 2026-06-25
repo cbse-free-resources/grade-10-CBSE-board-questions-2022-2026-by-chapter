@@ -2,6 +2,8 @@
 
 Questions from previous CBSE Class 10 board exam question papers from **2022–2026**, organised **by subject and chapter** — each with an **AI-generated model answer**.
 
+Also check out **[cbsegrade10studyguide.com](https://cbsegrade10studyguide.com/)**.
+
 ## Sources
 
 All source material used to generate this content is taken from official, publicly available sources:
@@ -174,4 +176,4 @@ _21 chapters · 978 questions_
 - Water Resources (26 questions)
 
 ---
-*Questions are sourced from previous CBSE board examinations and they are the property of CBSE. This re-organised compilation is provided free for students' study and revision*
+*Questions are sourced from previous CBSE board examinations and they are the property of CBSE. This re-organised compilation was generated using Claude Code and is provided free for students' study and revision*
