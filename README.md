@@ -174,4 +174,4 @@ _21 chapters · 978 questions_
 - Water Resources (26 questions)
 
 ---
-*Questions are sourced from previous CBSE board examinations and are the property of CBSE. This collection is provided free for students' study and revision; not for resale.*
+*Questions are sourced from previous CBSE board examinations and they are the property of CBSE. This re-organised compilation is provided free for students' study and revision*
