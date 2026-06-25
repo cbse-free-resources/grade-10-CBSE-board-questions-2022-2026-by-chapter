@@ -1,6 +1,14 @@
 # CBSE Class X — Board Exam Questions (2022–2026), by chapter
 
-**Free study resource.** Previous-years' **CBSE Class X (Grade 10) board-exam questions**, drawn from the **2022–2026** board papers and reorganised **by subject and chapter** so you can revise one chapter at a time. Every PDF contains the question paper followed by its **answer key**.
+Questions from previous CBSE Class 10 board exam question papers from **2022–2026**, organised **by subject and chapter** — each with an **AI-generated model answer**.
+
+## Sources
+
+All source material used to generate this content is taken from official, publicly available sources:
+
+- **Question papers** — the CBSE Grade 10 Board Exam question papers are from the official CBSE website: [cbse.gov.in/cbsenew/question-paper.html](https://cbse.gov.in/cbsenew/question-paper.html)
+- **Textbooks** — the main subjects' textbooks are from NCERT: [ncert.nic.in/textbook.php](https://ncert.nic.in/textbook.php)
+- **Skill-subject textbooks** — Artificial Intelligence and Financial Market Management are from the CBSE skill education books: [cbseacademic.nic.in/skill-education-books.html](https://cbseacademic.nic.in/skill-education-books.html)
 
 **113 chapter papers · 7 subjects · 5,132 questions.**
 
@@ -8,7 +16,7 @@
 
 - One **folder per subject**; one **PDF per chapter** inside it.
 - Each filename shows the chapter and how many questions it has, e.g. `Resources and Development (39 questions).pdf`.
-- Each PDF is the **question paper + answer key** combined.
+- Each PDF is the **question paper followed by an AI-generated model answer** for every question.
 - Questions are arranged in textbook reading order within the chapter.
 
 ## Free to use and share
