@@ -4,6 +4,8 @@ Questions from previous CBSE Class 10 board exam question papers from **2022–2
 
 Also check out **[cbsegrade10studyguide.com](https://cbsegrade10studyguide.com/)**.
 
+Looking for **AI-generated practice papers** organised the same way (chapter by chapter, each with an answer key)? See the companion repository **[grade-10-CBSE-AI-generated-practice-question-papers-by-chapter](https://github.com/cbse-free-resources/grade-10-CBSE-AI-generated-practice-question-papers-by-chapter)**.
+
 ## Sources
 
 All source material used to generate this content is taken from official, publicly available sources:
